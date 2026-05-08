@@ -1,4 +1,11 @@
-# Hi there 👋
+<div align="center">
+
+# 🚧 WORK IN PROGRESS 🚧
+
+</div>
+
+
+# Hello there 👋
 
 Welcome to techAli — a space focused on **computational biology, bioinformatics, machine learning, explainable AI, and reproducible research**.
 
