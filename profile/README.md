@@ -1,8 +1,8 @@
-# Hello there 👋
+# Hi there 👋
 
-Welcome to teachAli — a space focused on **computational biology, bioinformatics, machine learning, and reproducible research**.
+Welcome to techAli — a space focused on **computational biology, bioinformatics, machine learning, explainable AI, and reproducible research**.
 
-We build and share tools, pipelines, and research frameworks that help transform biological data into meaningful biological insight.
+We build and share tools, pipelines, and research frameworks that help transform biological data and machine learning outputs into meaningful scientific insight.
 
 ---
 
@@ -13,16 +13,38 @@ Our projects span across:
 * Bulk and single-cell RNA-seq analysis
 * Multi-omics integration
 * AI & machine learning for biology
+* Explainable and interpretable AI
 * Generative models for biological data
 * Pathway and network analysis
 * Cancer systems biology
 * Reproducible HPC workflows
 * Nextflow and scalable bioinformatics pipelines
-* Data visualization and scientific reporting
+* Scientific visualization and reporting
 
 The goal is simple:
 
-> Build practical, reproducible, and scientifically meaningful computational tools for modern biology.
+> Build practical, reproducible, and scientifically meaningful computational tools for modern biology and AI-driven discovery.
+
+---
+
+## 🧠 Explainable AI & Model Interpretability
+
+A major focus of this organization is understanding **how and why machine learning models make decisions**.
+
+Modern AI systems often behave like black boxes. We are interested in researching and developing frameworks that:
+
+* extract biologically meaningful signals from models,
+* interpret latent representations,
+* identify important features and decision pathways,
+* evaluate robustness and uncertainty,
+* and bridge the gap between prediction and mechanistic understanding.
+
+The aim is not only to build accurate models, but also to make them:
+
+* interpretable,
+* trustworthy,
+* biologically grounded,
+* and scientifically useful.
 
 ---
 
@@ -34,7 +56,17 @@ Developing integrative frameworks for understanding disease progression, heterog
 
 ### 🤖 AI for Biology
 
-Exploring deep learning, latent space modeling, and foundation-model-inspired approaches for biological systems.
+Exploring deep learning, generative modeling, and representation learning approaches for biological systems.
+
+### 🔍 Explainable Machine Learning
+
+Building methods to investigate:
+
+* feature importance,
+* latent space structure,
+* pathway-level behavior,
+* model reasoning,
+* and biological relevance of learned representations.
 
 ### ⚙️ Reproducible Pipelines
 
@@ -57,9 +89,25 @@ Designing publication-quality visualizations and interactive reports for complex
 * Single-cell analysis workflows
 * Pathway activity scoring tools
 * Machine learning templates for omics data
-* Reusable visualization utilities
+* Explainable AI experiments and utilities
 * Benchmarking and QC frameworks
 * Research notebooks and prototypes
+
+---
+
+## ✍️ Research Notes & Writing
+
+Alongside code and pipelines, we also share research thoughts, technical notes, and long-form discussions on computational biology, AI, and scientific reasoning.
+
+* [Personal Blog on Medium](https://medium.com/@saalis.uk/about?utm_source=chatgpt.com)
+
+Topics include:
+
+* explainable AI,
+* computational biology,
+* machine learning concepts,
+* scientific workflows,
+* and practical research insights.
 
 ---
 
@@ -78,34 +126,29 @@ You can contribute by:
 
 ---
 
-## 👩‍💻 Useful Resources
+## 👩‍💻 Technologies Frequently Used
 
-* Personal blog & writings:
-
-  * [Medium Profile](https://medium.com/@saalis.uk/about)
-
-* Technologies frequently used:
-
-  * Python
-  * R / Bioconductor
-  * Nextflow
-  * PyTorch
-  * Scanpy / Seurat
-  * DESeq2 / edgeR / limma
-  * Docker / Singularity
-  * SLURM HPC environments
+* Python
+* R / Bioconductor
+* Nextflow
+* PyTorch
+* Scanpy / Seurat
+* DESeq2 / edgeR / limma
+* Docker / Singularity
+* SLURM HPC environments
 
 ---
 
 ## 🌱 Philosophy
 
-Good computational biology is not just about models.
+Good computational biology and AI research are not just about building models.
 
-It is about:
+They are about:
 
-* asking the right biological question,
+* asking meaningful scientific questions,
 * building reproducible systems,
 * understanding limitations,
+* interpreting model behavior,
 * and translating data into insight.
 
 ---
@@ -115,6 +158,7 @@ It is about:
 If you are interested in:
 
 * computational biology,
+* explainable AI,
 * machine learning for life sciences,
 * collaborative research,
 * or open-source bioinformatics,
